@@ -14,18 +14,18 @@
             <div class="top">
                 <p class="p1">
                     Transform Communication
-                    <img src="../assets/whatshot.png" alt="logo" />
+                    <!-- <img src="../assets/whatshot.png" alt="logo" /> -->
                 </p>
                 <p>Data-Driven Engagement, Streamlined Impact.</p>
             </div>
             <div class="bottom">
-                <div class="left-image">
+                <!-- <div class="left-image">
                     <img src="../assets/diversity_3.png" alt="i" class="img1"/>
                     <img src="../assets/3p.png" alt="i" class="img2"/>
                     <img src="../assets/speaker_notes.png" alt="i" class="img3"/>
                     <img src="../assets/campaign.png" alt="i" class="img4"/>
                     <img src="../assets/smallwhats.png" alt="i" class="img5"/>
-                </div>
+                </div> -->
                 <div class="text-content">
                     <p class="p2">
                         <strong>Dynamic Grouping:</strong> Create customized groups effortlessly, tailored to your unique
